@@ -56,3 +56,5 @@ resources:
   limits:
     memory: 2048Mi
     cpu: '1'
+
+nodeSelector: {}
